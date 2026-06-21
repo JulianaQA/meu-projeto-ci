@@ -51,7 +51,7 @@ jobs:
           pytest tests/ -v --cov=src --cov-report=html --cov-report=xml --html=reports/test-report.html --self-contained-html
       
       - name: Fazer upload dos relatórios
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: test-reports-python-${{ matrix.python-version }}
           path: |
