@@ -25,5 +25,5 @@ Os relatórios ficam salvos como "artifacts" e também no GitHub Pages.
 - GitHub Pages
 
 ## 👩‍💻 Autora
-[Seu Nome]
+[Juliana Pereira]
 Disciplina: Integração Contínua para Automação de Testes
