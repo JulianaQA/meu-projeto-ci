@@ -1,0 +1,1 @@
+python # Este arquivo faz a pasta tests ser reconhecida como um pacote Python
